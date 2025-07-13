@@ -6,8 +6,6 @@ An autonomous agent built in Java to participate in a real-time, grid-based batt
 
 - Java (OOP, logic-based control flow)
 - 2D grid simulation
-- Deterministic random number generation (`Random131`)
-- Custom battlefield engine with GUI
 
 ## 📌 Features
 
